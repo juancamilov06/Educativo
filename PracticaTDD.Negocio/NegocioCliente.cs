@@ -25,7 +25,7 @@ namespace PracticaTDD.Negocio
 
         public NegocioCliente(Cliente informacionCliente, IRepositorioCliente repositorioClienteMock)
         {
-            cliente = informacionCliente;
+            cliente = informacionClient;
             this.repositorioCliente = repositorioClienteMock;
         }
 
