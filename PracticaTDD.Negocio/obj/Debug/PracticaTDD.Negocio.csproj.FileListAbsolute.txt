@@ -1,0 +1,7 @@
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Negocio\bin\Debug\PracticaTDD.Negocio.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Negocio\bin\Debug\PracticaTDD.Negocio.pdb
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Negocio\obj\Debug\PracticaTDD.Negocio.csprojResolveAssemblyReference.cache
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Negocio\obj\Debug\PracticaTDD.Negocio.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Negocio\obj\Debug\PracticaTDD.Negocio.pdb
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Negocio\bin\Debug\PracticaTDD.Entidades.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Negocio\bin\Debug\PracticaTDD.Entidades.pdb

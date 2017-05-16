@@ -1,0 +1,10 @@
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\obj\Debug\PracticaTDD.Test.csprojResolveAssemblyReference.cache
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\bin\Debug\PracticaTDD.Test.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\bin\Debug\PracticaTDD.Test.pdb
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\bin\Debug\PracticaTDD.Entidades.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\bin\Debug\PracticaTDD.Negocio.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\bin\Debug\PracticaTDD.Entidades.pdb
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\bin\Debug\PracticaTDD.Negocio.pdb
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\obj\Debug\PracticaTDD.Test.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD.Test\obj\Debug\PracticaTDD.Test.pdb

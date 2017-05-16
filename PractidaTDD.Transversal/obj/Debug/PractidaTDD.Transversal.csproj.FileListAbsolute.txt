@@ -1,0 +1,4 @@
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PractidaTDD.Transversal\bin\Debug\PractidaTDD.Transversal.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PractidaTDD.Transversal\bin\Debug\PractidaTDD.Transversal.pdb
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PractidaTDD.Transversal\obj\Debug\PractidaTDD.Transversal.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PractidaTDD.Transversal\obj\Debug\PractidaTDD.Transversal.pdb

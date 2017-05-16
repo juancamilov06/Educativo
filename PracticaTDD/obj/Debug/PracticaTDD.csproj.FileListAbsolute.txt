@@ -1,0 +1,6 @@
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD\bin\Debug\PracticaTDD.exe.config
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD\bin\Debug\PracticaTDD.exe
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD\bin\Debug\PracticaTDD.pdb
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD\obj\Debug\PracticaTDD.csprojResolveAssemblyReference.cache
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD\obj\Debug\PracticaTDD.exe
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PracticaTDD\obj\Debug\PracticaTDD.pdb

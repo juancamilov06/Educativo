@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaTDD", "PracticaTDD\PracticaTDD.csproj", "{1F013CF9-C653-47B2-852D-E311C1BC087D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaTDD.Negocio", "PracticaTDD.Negocio\PracticaTDD.Negocio.csproj", "{1C939346-7961-444E-8453-FB02BA5545BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractidaTDD.Repositorio", "PractidaTDD.Repositorio\PractidaTDD.Repositorio.csproj", "{303FCD18-DCE1-4C5D-98B2-B3005C79C132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaTDD.Entidades", "PracticaTDD.Entidades\PracticaTDD.Entidades.csproj", "{D891ED40-CB80-48F4-AF12-51AA176917F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractidaTDD.Transversal", "PractidaTDD.Transversal\PractidaTDD.Transversal.csproj", "{E8BD34FB-A60E-469C-8707-C24BA6EE058F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PracticaTDD.Datos", "PracticaTDD.Datos\PracticaTDD.Datos.sqlproj", "{26F056DF-FB77-49AE-8C22-B1086DAB2C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaTDD.Test", "PracticaTDD.Test\PracticaTDD.Test.csproj", "{A6F4DC23-F4D1-41EF-BBC3-BC27B6FC6C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F013CF9-C653-47B2-852D-E311C1BC087D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F013CF9-C653-47B2-852D-E311C1BC087D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F013CF9-C653-47B2-852D-E311C1BC087D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F013CF9-C653-47B2-852D-E311C1BC087D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C939346-7961-444E-8453-FB02BA5545BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C939346-7961-444E-8453-FB02BA5545BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C939346-7961-444E-8453-FB02BA5545BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C939346-7961-444E-8453-FB02BA5545BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303FCD18-DCE1-4C5D-98B2-B3005C79C132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303FCD18-DCE1-4C5D-98B2-B3005C79C132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303FCD18-DCE1-4C5D-98B2-B3005C79C132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303FCD18-DCE1-4C5D-98B2-B3005C79C132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D891ED40-CB80-48F4-AF12-51AA176917F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D891ED40-CB80-48F4-AF12-51AA176917F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D891ED40-CB80-48F4-AF12-51AA176917F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D891ED40-CB80-48F4-AF12-51AA176917F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BD34FB-A60E-469C-8707-C24BA6EE058F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BD34FB-A60E-469C-8707-C24BA6EE058F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BD34FB-A60E-469C-8707-C24BA6EE058F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BD34FB-A60E-469C-8707-C24BA6EE058F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F056DF-FB77-49AE-8C22-B1086DAB2C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F056DF-FB77-49AE-8C22-B1086DAB2C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F056DF-FB77-49AE-8C22-B1086DAB2C27}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{26F056DF-FB77-49AE-8C22-B1086DAB2C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F056DF-FB77-49AE-8C22-B1086DAB2C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F056DF-FB77-49AE-8C22-B1086DAB2C27}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A6F4DC23-F4D1-41EF-BBC3-BC27B6FC6C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F4DC23-F4D1-41EF-BBC3-BC27B6FC6C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F4DC23-F4D1-41EF-BBC3-BC27B6FC6C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F4DC23-F4D1-41EF-BBC3-BC27B6FC6C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

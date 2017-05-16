@@ -1,0 +1,5 @@
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PractidaTDD.Repositorio\bin\Debug\PractidaTDD.Repositorio.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PractidaTDD.Repositorio\bin\Debug\PractidaTDD.Repositorio.pdb
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PractidaTDD.Repositorio\obj\Debug\PractidaTDD.Repositorio.csprojResolveAssemblyReference.cache
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PractidaTDD.Repositorio\obj\Debug\PractidaTDD.Repositorio.dll
+c:\users\achanci\documents\visual studio 2015\Projects\PracticaTDD\PractidaTDD.Repositorio\obj\Debug\PractidaTDD.Repositorio.pdb
